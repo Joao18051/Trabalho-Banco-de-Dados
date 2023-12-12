@@ -8,7 +8,7 @@ import com.projeto.model.medicos;
 import java.sql.SQLException;
 import java.util.List;
 
-public class Teste {
+public class Main {
     static especialidadesDAO especialidadesDAO = new especialidadesDAO();
     static medicosDAO medicosDAO = new medicosDAO();
 

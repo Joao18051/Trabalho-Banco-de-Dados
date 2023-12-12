@@ -39,8 +39,8 @@ public class medicos {
   @Override
   public String toString() {
     return "Médico: " +
-      "id ='" + id + "\'" +
-      "| Nome ='" + nome + "\'" +
-      "| crm ='" + crm + "\'";
+      "id = " + id +
+      "| Nome = '" + nome +  "\'" +
+      "| crm = " + crm;
   }
 }
